@@ -1,0 +1,15 @@
+.joke {
+    width: 70vw;
+    height: 45vh;
+    background-color: rgb(97, 241, 97);
+    color: azure;
+}
+
+button {
+    background-color: greenyellow;
+}
+
+p {
+    color: azure;
+    font-weight: bolder;
+}
